@@ -1,0 +1,3 @@
+Linux:
+- learnt basic commands
+- learnt moderate commands

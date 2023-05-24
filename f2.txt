@@ -1,3 +1,6 @@
 Linux:
 - learnt basic commands
+	- ls
+	- cd
+	- pwd
 - learnt moderate commands
